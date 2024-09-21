@@ -1,0 +1,10 @@
+title: Why shoud learn Data structure?
+content: "A good algorithm usually comes together with a set of good data structures that allow the algorithm to manipulate the data efficiently. In this course, we consider the common data structures that are used in various computational problems. You will learn how these data structures are implemented in different programming languages and will practice implementing them in our programming assignments. This will help you to understand what is going on inside a particular built-in implementation of a data structure and what to expect from it. You will also learn typical use cases for these data structures."
+items:
+  - different sort algorithms
+  - time complexity
+  - Arrays
+  - Stack & Queue
+  - Types of Trees in Data Structure
+  - Hashing & Hash map
+

@@ -1,0 +1,25 @@
+title:  What's Included
+includes:
+  - meta: Hours
+    data: 50
+
+  - meta: Exercises
+    data: 4
+
+  - meta: Assistants
+    data: 4
+
+  - meta: Students
+    data: 80+
+
+ 
+
+subtitle: Course Content
+
+lessons:
+  - title: "Lesson 1 : Sorting the World!"
+    
+    description: "In this lesson you learn different sort algorithms"
+    body: lesson_1
+
+  
