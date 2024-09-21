@@ -17,7 +17,7 @@ includes:
 subtitle: Course Content
 
 lessons:
-  - title: "Lesson 1 : Sorting the World!"
+  - title: "Syllabus!"
     
     description: "In this lesson you learn different sort algorithms"
     body: lesson_1
