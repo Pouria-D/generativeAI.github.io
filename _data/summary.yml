@@ -4,13 +4,13 @@
   desc: Hours
 
 - title: Exercises
-  value: 4
+  value: 6
   icon: book
 
 - title: TAs
-  value: 4
+  value: 12
   icon: users
 
 - title: Students
-  value: 80+
+  value: 30+
   icon: user-circle
