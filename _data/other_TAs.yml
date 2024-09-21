@@ -1,10 +1,10 @@
 - name: Seyed Reza Tavakoli
   roles:
     - Assignments
-  image: barghi.jpg
+  image: tavakoli.jpg
   social:
-    - name: github
-      link: https://github.com/mmahdibarghi
+    - name: email
+      link: seyedreza.shiyade@gmail.com
     - name: linkedin
       link: https://linkedin.com/in/mohammad-mahdi-barghi-23a232151
 
