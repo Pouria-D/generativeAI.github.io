@@ -2,29 +2,25 @@
   roles:
     - Assignments
   image: tavakoli.jpg
-  social:
-    - name: github
-      link: seyedreza.shiyade@gmail.comg
+  #social:
 
-- name: Navid Nasiri
+- name: Pouria Dadkhah
   roles:
       - Assignments
-  image: navid.jpg
+  image: pouria.jpg
   social:
     - name: github
-      link: https://github.com/navidnasyry
+      link: https://github.com/pouria-D
     - name: linkedin
-      link: https://www.linkedin.com/in/navid-nasyry-6a14b31a7/
+      link: https://www.linkedin.com/in/pouria-dadkhah-1bb044187/
 
-- name: Arsalan Yavari
+- name: Ramtin Moslemi
   roles:
        - Assignments
-  image: default.png
+  image: ramtin.jpg
   social:
-    - name: github
-      link: https://github.com/arsalanyavari
     - name: linkedin
-      link: https://www.linkedin.com/in/arsalan-yavari/
+      link: www.linkedin.com/in/ramtin-m
 - name: Mersad HasanJani
   roles:
        - Assignments
