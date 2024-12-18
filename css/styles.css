@@ -8036,6 +8036,10 @@ textarea.form-control-lg {
   word-break: break-word !important;
 }
 
+.text-family {
+  --bs-text-opacity: 1;
+  color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+}
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
