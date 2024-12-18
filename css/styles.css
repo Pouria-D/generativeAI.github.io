@@ -43,6 +43,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   /* Periwinkle color for background */
+  --bs-side-rgb: 147, 163, 137;
   --bs-primary-rgb: 204, 204, 255;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -8038,7 +8039,7 @@ textarea.form-control-lg {
 /* rtl:end:remove */
 .text-primary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+  color: rgba(var(--bs-side-rgb), var(--bs-text-opacity)) !important;
 }
 
 .text-secondary {
